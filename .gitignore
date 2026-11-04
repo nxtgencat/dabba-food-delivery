@@ -6,3 +6,6 @@ dist-ssr
 *.log
 scripts
 .taste-skill
+
+# Editor captures
+.openchamber/
